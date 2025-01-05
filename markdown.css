@@ -1,0 +1,11 @@
+/* Markdown style sheet export VSCODE to make font smaller */
+p, li, ul, code {
+    font-size: 11px;
+    line-height:150%;
+}
+h1 {
+    font-size: 23px;
+}
+h2 {
+    font-size: 15px;
+}
