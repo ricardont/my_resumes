@@ -66,7 +66,7 @@ In charge of **ETL, Data Analytics and Reporting for a Merchandising Dept.** lea
 
 ## Skills
   - **Soft Skills:** Fluent in English, Client Needs Analysis, Leadership, Mentoring, Project Managements
-  - **Web Development:** Ruby on Rails (7+ years), JavaScript (7+ years), ReactJS (1+ years), RESTful APIs, SQL, PostgreSQL, MySQL, HTML, CSS, JavaScript, Angular, React(), Bootstrap
+  - **Web Development:** Ruby on Rails (7+ years), JavaScript (7+ years), React (1+ years), RESTful APIs, SQL, PostgreSQL, MySQL, HTML, CSS, JavaScript, Angular, Bootstrap
   - **Cloud:** GCP, AWS, Digital Ocean
   - **VCS:** Git, SVN.
   - **Effective Communication:** Spanish (native), English fluently.
