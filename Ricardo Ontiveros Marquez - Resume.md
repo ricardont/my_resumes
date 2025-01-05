@@ -18,6 +18,7 @@ Lead the establichment of new teams and entire functional areas at AutoZone MX, 
   - Oversee onboarding processes, ensure effective trainings and development of career paths.  
 - **Consolidation**:  
   - Quarterly KPI presentations to stakeholders.  
+  - New Team's Tech enablement 
   - Provided mentorship through 1:1s, IDPs and career coaching.  
   - Streamline processes, set SMART objectives, and identified additional resource needs.  
 
