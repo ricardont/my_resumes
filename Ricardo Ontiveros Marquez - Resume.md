@@ -7,7 +7,7 @@ Dynamic and results-driven leader with over 10 years of experience spanning Soft
 **Jan 2023 - Current** | **Analytics and Shared-services Manager** | ***AutoZone***
 
 **Shared-Services Manager**  
-Lead the establichment of new teams and entire functional areas at AutoZone MX, collaborating with US stakeholders to transition corporate activities seamlessly. Successfully consolidated diverse departments, including **Analytics, Software Engineering, Marketing, Graphic Design, and Construction Drafting**, while serving as a strong liaison between US and MX collaborators.  
+Lead the establishment of new teams and entire functional areas at AutoZone MX, collaborating with US stakeholders to transition corporate activities seamlessly. Successfully consolidated diverse departments, including **Analytics, Software Engineering, Marketing, Graphic Design, and Construction Drafting**, while serving as a strong liaison between US and MX collaborators.  
 
 - **Strategy**:  
   - Pitch new team proposals to US stakeholders.  
