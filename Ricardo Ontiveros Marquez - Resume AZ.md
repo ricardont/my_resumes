@@ -3,6 +3,7 @@ Chihuahua Mexico | **Phone:** +52614-4580595 | **Mail:** ricardo.ontiveros@autoz
 ## **Summary**
 
 10 year AutoZoner, passioned for building new teams and leadership, results-driven, with solid experience in Business Intelligence, Data analytics, and Software Engineering, leveraging diverse technologies such as SAS, WebFocus, SQL, Python, Java, and JavaScript. Ability to drive innovation and efficiency in fast-paced environments by translating complex requirements into functional and high-impact solutions. Skilled in leading and managing data analysis and applications development teams. 
+
 ## **Experience**
 
 ### **Jan 2023 - Current | General Services and Analytics Manager | AutoZone**
@@ -35,16 +36,18 @@ Manage a team of analysts and software engineers supporting **Marketing, Merchan
   - Collaborated on business requirements and implemented process improvement strategies. 
 
 ### **Jan 2021 - Dec 2022 | Lead Developer BI | AutoZone**  
-In charge of **Data Processing and Reporting for a Merchandising** leading a developers team working with **SAS, SQL, Web Focus, VBScript and Python** along with **HTML, Javascript, JQuery, CSS** for massive data reporting and dashboard distrubution. 
+In charge of **BI Merch Area** leading a developers team working with **SAS, SQL, Web Focus, VBScript and Python** along with **HTML, Javascript, JQuery, CSS** for massive data reporting and dashboard distrubution. 
 - Mentoring, code reviewing, ensure the processes comply with code best praxis to ensure smooth sustainability
 - In charge of support and development business intelligence reporting solutions, serving over **100 Active upper management and analysis users**. 
 - **Streamline and automation** of legacy process, reducing errors and manual efforts
 - Determine Business Reporting and analytics requirements 
-- Design and modeling for Large and complex data.
+- Design and modeling for Large and complex data
 - Reporting, Dashbaording design and development 
 
+
+
 ### **March 2015 - Dec 2020 | Developer BI | AutoZone**  
-- **Business Intelligence Developer** working with **ETL, Data Analytics and Reporting** the **Store Operations dept.**, using **SAS, SQL, Web Focus and SAS software** for data extraction, and **HTML, Javascript, JQuery, CSS** for massive reporting. 
+- **Business Intelligence Developer** working with **Data extraction and Reporting** for the **Store Ops. dept.**, using **SAS, SQL, Web Focus and SAS software** for data extraction, and **HTML, Javascript, JQuery, CSS** for massive reporting. 
 - In charge of support and development **Business Intelligence** reporting solutions, serving over **5K stores in the US**.
 - Develop ETLs for Large and complex data.
 - Design, develop and implementation of robust Reporting, Dashbaording bussines solutions. 
@@ -52,13 +55,13 @@ In charge of **Data Processing and Reporting for a Merchandising** leading a dev
 
 ### **March 2018 - Dec 2022 | Web Developer | Freelancer** 
 - **Real Estate Web App**, responsible of design, develop and deploy application; streamlining user face interaction, enhancing company's exposure, centralize/digitize crud catalog corporate image and logo, database, deployment server by using **Python, Ruby on Rails, JS, jquery, bootstrap, css, AWS** 
-- **Inventory Cross-Platform App** for Trailer'scompany. Inventory, customer, sales and truck's tracking streamline by using **Python, Ruby on Rails, jquery, bootstrap, css, React Native, Digital Ocean**  
+- **Inventory Cross-Platform App** for Trailer's company. Inventory, customer, sales and truck's tracking streamline by using **Python, Ruby on Rails, jquery, bootstrap, css, React Native, Digital Ocean**  
 
 ### **May 2013 - Feb 2015 | Support Agent | AutoZone**  
 **Technical support** to US and MX Autozone store's systems and POS, resolving IT issues in real time to ensure seamless operation along with continuous diagnostics ensure systems running smoothly.  
 - Technical and procedural guidance for Non-Tech Users
 - System Point of Sale support in **UNIX**  with DB maintenance in **PostgreSQL**
-- Develop **Bash scripting** for automated remote diagnostic and standard-fix tasks
+- Develop **Shell scripting** for automated remote diagnostic and standard-fix tasks
 - **Cisco Networking** support and diagnostics
 
 ## **Skills**
