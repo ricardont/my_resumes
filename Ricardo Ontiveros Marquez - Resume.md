@@ -1,81 +1,90 @@
 # Ricardo Ontiveros Marquez
-Chihuahua Mexico - **Phone:** +52614-4580595 - **Mail:** rontiverosmarquez@gmail.com 
+Chihuahua, Mexico | +52-614-458-0595 | [rontiverosmarquez@gmail.com](mailto:rontiverosmarquez@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ricardoont/) |
 ## **Summary**
-Dynamic leader with over 10 years of experience spanning Software Engineering, Data Analytics, and Business Intelligence, leveraging diverse technologies such as Python, Ruby, Java, SAS, and JavaScript. Proven ability to drive innovation and efficiency in fast-paced environments by translating complex requirements into scalable, high-impact solutions. Skilled in end-to-end development, from creating responsive, user-centric interfaces to implementing robust backend systems. Experienced in delivering results through strategic planning, team leadership, and a commitment to excellence in code quality and process optimization.
+Engineering leader who builds solutions and teams that deliver. I've spent 
+10+ years modernizing legacy systems, implementing cloud migrations and 
+automation, and leading engineers who ship real results. My focus has always 
+been practical: take complex business problems, architect the right technical 
+solution, deploy it, make it work. I stay hands-on because I genuinely enjoy 
+the technical work; whether that means designing a GCP migration strategy, 
+debugging Python code, or figuring out how to integrate Microsoft Dynamics 
+with analytics platforms. Work best in environments where I can bridge 
+technical execution with business strategy. Core skills: Python, .NET, Ruby on Rails, Google Cloud Platform, enterprise automation. Google Cloud Architect | 
+Six Sigma Black Belt.
 
 ## **Experience**
-### **Jan 2023 - Current** - **Analytics and Shared-services Manager** - ***AutoZone***
-**Analytics Manager**  
-Manage a multidisciplinary team of analysts and software engineers supporting **Merchandising and Visual Display for Planograms** across 5k stores. Delivered business insights, automation solutions, and process optimizations.  
+### **Apr 2025 - Present | IT Manager - Digital Transformation & Automation | AutoZone**
 
-- **Data Analytics**:  
-  - Directed analytics projects using **SQL, SAS, Python (Pandas)**, and **Google BigQuery** for data-driven merchandising strategies.  
-  - Developed and presented **KPI Dashboards** for business insights through **Looker and WebFocus** .  
-  - Supervised **ETL/Data Pipelines** and massive web reporting via **SAS, SQL and Google Big Query**.  
-- **Software Solutions**:  
-  - Led app development in **Ruby on Rails, Java Spring Boot, Python and C#** for process automation.  
-  - Optimized merchandising space using **Python** for visual display.  
-- **Leadership & Strategy**:  
-  - Defined and tracked KPIs for analytics projects to measure success.  
-  - Established training plans, IDPs, and career paths to enhance team performance.  
-  - Collaborated on business requirements and implemented process improvement strategies. 
-  - Leading the implementation of an in-progress **BI and analytics migration from on-premises to GCP Cloud**. Succesfully migrated the **~50% of the existing environment**, reducing **processing time of 70%** by optimizing process of SQL reporting on the cloud.
+Lead multidisciplinary engineering organization of 3 specialized teams: Enterprise Automation, CRM Development, and Visual Merchandising Systems. Drive process automation and digital transformation solutions across multiple AutoZone business domains including Supply Chain, Merchandising, Finance, Commercial Credit, Payroll, Contact Centers, and Store Field Operations. Bridge technical execution with strategic business objectives, defining technical roadmaps and delivering enterprise-scale solutions.
 
-**Shared-Services Manager**  
-Lead the establishment of new teams and entire functional areas at AutoZone MX, collaborating with US stakeholders to transition corporate activities seamlessly. Successfully consolidated diverse departments, including **Analytics, Software Engineering, Marketing, Graphic Design, and Construction Drafting**, while serving as a strong liaison between US and MX collaborators.  
+**Enterprise Automation & RPA:**  
+Manage Enterprise Automation engineering team, driving **digital transformation** and **business agility** through intelligent automation and process improvement across enterprise operations.
 
-- **Strategy**:  
-  - Pitch new team proposals to US stakeholders.  
-  - Consolidated business requirements and designed org structures.  
-  - Crafted job roles, defined KPIs, and established new area hierarchies.  
-- **Recruitment**:  
-  - Coordinate efforts with HR and stakeholders for talent acquisition.  
-  - Oversee onboarding processes, ensure effective trainings and development of career paths.  
-- **Consolidation**:  
-  - Quarterly KPI presentations to stakeholders.  
-  - New Team's Tech enablement 
-  - Provided mentorship through 1:1s, IDPs and career coaching.  
-  - Streamline processes, set SMART objectives, and identified additional resource needs.  
+- Deploy automation solutions using **Python, Automation Anywhere, and agentic frameworks integrated with GCP;**  implementing document automation, workflow orchestration, and RPA reducing operational overhead.
+- Lead process improvement and redesign initiatives enabling business-agility, digital transformation and operational efficiency.
 
+**Application Engineering:**   
+ Lead **engineering teams** delivering full-stack applications across **CRM, Visual Merchandising, and Cloud Infrastructure** while driving enterprise cloud migration initiatives.
 
+- **CRM Development Team**: Lead **Microsoft Dynamics CRM** customization and integration with **Google BigQuery** analytics environment for unified customer insights
+- **Visual Merchandising Engineering Team**: Oversee **.NET/C# application development**, Python analytics integration, and automated provisioning tools for merchandising planogram systems across retail network
+- **Cloud Migration:** Spearhead **on-premises to GCP Cloud migration** - Successfully migrated **50% of BI/analytics environment**, achieving **70% processing time reduction** through cloud-optimized SQL and data pipelines
+---
+### **Jan 2023 - Apr 2025 | Analytics and Shared-Services Manager | AutoZone**
+Managed development and analytics team supporting **Merchandising and Visual Display Planograms** across 5k stores. Led shared-services establishment for AutoZone MX.
+
+- Directed data analytics projects using **SQL, SAS, Python, Google BigQuery**. Developed **KPI Dashboards** via **Looker and WebFocus**
+- Led application development in **.NET, Java Spring Boot, Python, C#** for process automation
+- Led design, architecture and implementation of **full BI environment cloud migration to GCP** - improving **processing full cycle time by 70%**
+- Established new functional areas at AutoZone MX, consolidating **Analytics, Software Engineering, Marketing, Graphic Design, and Construction Drafting** departments
+---
 ### **Jan 2021 - Dec 2022** - **Lead Developer BI** - ***AutoZone***  
-In charge of **ETL, Data Analytics and Reporting for a Merchandising Dept.** leading a developers team working with **Looker, Big Query, Python, SQL, Google,  Web Focus, VBScript and SAS software** along with **HTML, Javascript, JQuery, CSS** for massive reporting and dashboard distrubution . 
-- Mentoring, code reviewing, ensure the processes comply with code best praxis to ensure smooth sustainability
-- In charge of support and development business intelligence reporting solutions, serving over **100 Active upper management and analysis users**. 
-- **Streamline and automation** of legacy process, reducing errors and manual efforts
-- Determine Business Reporting and analytics requirements 
-- Design and modeling for Large and complex data.
-- Reporting, Dashbaording design and development 
-
-
+Led **ETL, Data Analytics and Reporting for Merchandising Dept.** managing a development team working with **Looker, Big Query, Python, SQL, Google,  Web Focus, VBScript and SAS software** along with **HTML, Javascript, JQuery, CSS** for massive reporting and dashboard distribution . 
+- Mentored team, conducted code reviews, ensured the processes comply with code best praxis to ensure smooth sustainability
+- Supported and developed business intelligence reporting solutions, serving over **100 Active upper management and analysis users**. 
+- **Streamlined and automated** legacy processes, reducing errors and manual efforts
+- Determined business reporting and analytics requirements 
+- Designed and modeled large and complex datasets
+- Developed reporting and dashboard solutions
+---
 ### **March 2015 - Dec 2020** - **Developer BI** - ***AutoZone***  
 - **Business Intelligence Developer** working with **ETL, Data Analytics and Reporting** the **Store Operations dept.**, using **Looker, Big Query, Python, SQL, Google,  Web Focus, VBScript and SAS software** for data extraction, and **HTML, Javascript, JQuery, CSS** for massive reporting. 
-- In charge of support and development **business intelligence** reporting solutions, serving over **5K stores in the US**.
-- Develop ETLs for Large and complex data.
-- Design, develop and implementation of robust Reporting, Dashbaording bussines solutions. 
-### **March 2017 - Dec 2022** - **Web Developer** - ***Freelancer***  
-- **Real Estate Web App**, responsible of design, develop and deploy application; streamlining user face interaction, enhancing company's exposure, centralize/digitize crud catalog corporate image and logo, database, deployment server by using **Ruby on Rails, js, jquery, bootstrap, css, AWS, Corel Draw** 
-- **Inventory Cross-Platform App** for Trailer's rent/sell company. Inventory, customer, sales and truck's tracking streamline by using **Ruby on Rails, js, jquery, bootstrap, css, React Native, Digital Ocean, Corel Draw**  
+- Developed and supported **business intelligence** reporting solutions, serving over **5K stores in the US**.
+- Developed ETLs for large and complex datasets
+- Designed, developed and implemented robust reporting and dashboard business solutions. 
+---
 ### **May 2013 - Feb 2015** - **Support Agent** - ***AutoZone***  
 **Technical support** to US and MX Autozone store's systems and POS, resolving IT issues in real time to ensure seamless operation along with continuous diagnostics ensure systems running smoothly.  
 - Technical and procedural guidance for Non-Tech Users
 - System Point of Sale support in **UNIX**  with DB maintenance in **PostgreSQL**
-- Develop **Shell scripting** for automated remote diagnostic and standard-fix tasks
+- Developed **shell scripting** for automated remote diagnostic and standard-fix tasks
 - **Cisco Networking** support and diagnostics
-
-## **Skills**
-  - **Soft Skills:** Fluent in English, Client Needs Analysis, Leadership, Mentoring, Project Managements
-  - **Web Development:** Ruby on Rails (7+ years), JavaScript (7+ years), React (1+ years), RESTful APIs, SQL, PostgreSQL, MySQL, HTML, CSS, JavaScript, Angular, Bootstrap
-  - **Cloud:** GCP, AWS, Digital Ocean
-  - **VCS:** Git, SVN.
-  - **Effective Communication:** Spanish (native), English fluently.
+---
+## **Additional Experience**
+### **March 2017 - Dec 2022** - **Web Developer** - ***Freelancer***  
+- **Real Estate Web App**: for designing, developing and deploying application; streamlining user interface interaction, enhancing company's exposure, centralized/digitized CRUD operations for catalog, corporate branding, and database deployment server by using **Ruby on Rails, js, jquery, bootstrap, css, AWS, Corel Draw** 
+- **Inventory Cross-Platform App** for Trailer's rent/sell company. Inventory, customer, sales and truck's tracking streamline by using **Ruby on Rails, js, jquery, bootstrap, css, React Native, Digital Ocean, Corel Draw**  
+---
+## **Technical Skills**
+- **Cloud & Infrastructure:** Google Cloud Platform (GCP), AWS, Cloud Migration, 
+BigQuery, Cloud Architecture
+- **Programming & Frameworks:** Python, .NET/C#, Ruby on Rails, Java Spring Boot, 
+JavaScript, React, SQL
+- **Automation & RPA:** Automation Anywhere, Process Automation, Workflow 
+Orchestration, Agentic Frameworks
+- **Data & Analytics:** SQL, SAS, PostgreSQL, MySQL, ETL Pipelines, Looker, 
+WebFocus, Data Modeling
+- **Enterprise Systems:** Microsoft Dynamics CRM, ERP Integration, Oracle NetSuite
+- **DevOps & Tools:** Git, CI/CD, Shell Scripting, RESTful APIs
+- **Leadership:** Team Management (10+ engineers), Digital Transformation Strategy, 
+Agile/Six Sigma (Black Belt), Cross-functional Collaboration
+- **Languages:** English (Fluent), Spanish (Native)
 ## **Education**
 **2003-2008 | Bachelor's Degree - Software Engineer** - _University of Chihuahua Mx_
 
 ## **Certifications**
-- **Google** - _Google Cloud Architect_ - [Certification](https://www.credly.com/badges/db450a65-4e22-41af-8581-eedd1dc8edba/public_url)
-- **LinkedIn** - _Python_ - [LinkedIn Certification](https://www.linkedin.com/learning/certificates/34e97bd413c8d68475848c0120424db3f5735365c0b5d8fa16e4de02ea2c8cda)
-- **Six Sigma** - _Green Belt_: [YB-5419](https://lean-certificates.s3.us-east-2.amazonaws.com/certificados_estudiantes/cursos_online/Green_Belt/Green_Belt_G38/diplomas/Ricardo_Alfredo_Ontiveros_M%C3%A1rquez___.pdf)
-- **Coursera** - _Agile meets Design Thinking_ - [Certification](https://www.coursera.org/verify/QENLZQRZ2DMM)
-- **LinkedIn** - _Public Speaking_ - [LinkedIn Certification](https://www.linkedin.com/learning/certificates/71f6b25f4176ccb4eeeec914a893dd543a4fbcbc2de093ad8ff6a9c1742379bf?u=145525210)
+- **Google Cloud Architect** - Google (2025) - [Link](https://www.credly.com/badges/db450a65-4e22-41af-8581-eedd1dc8edba/public_url)
+- **Six Sigma Black Belt** - Lean Six Sigma (2024) - [Link](https://lean-certificates.s3.us-east-2.amazonaws.com/certificados_estudiantes/cursos_online/Black_Belt/Black_Belt_G38/certificados/Ricardo_Alfredo_Ontiveros_M%C3%A1rquez___.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3EFTGXQQB3AS32OO%2F20251005%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20251005T210616Z&X-Amz-Expires=60&X-Amz-Signature=d92ec903ea820aad97abc37cbaa2833a4613b9b3adc5a391c57de5f92d3922ab&X-Amz-SignedHeaders=host)
+- **Agile meets Design Thinking** - Coursera (2020) - [Link](https://www.coursera.org/verify/QENLZQRZ2DMM)
+- **Python Professional** - LinkedIn Learning (2023) - [Link](https://www.linkedin.com/learning/certificates/34e97bd413c8d68475848c0120424db3f5735365c0b5d8fa16e4de02ea2c8cda)
   
