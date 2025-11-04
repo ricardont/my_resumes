@@ -1,5 +1,5 @@
 # Ricardo Ontiveros Marquez
-Chihuahua, Mexico | +52-614-458-0595 | [rontiverosmarquez@gmail.com](mailto:rontiverosmarquez@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ricardoont/) |
+Mexico | +52-614-458-0595 | [rontiverosmarquez@gmail.com](mailto:rontiverosmarquez@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ricardoont/) |
 ## **Summary**
 Engineering leader who builds solutions and teams that deliver. I've spent 
 10+ years modernizing legacy systems, implementing cloud migrations and 
@@ -9,8 +9,7 @@ solution, deploy it, make it work. I stay hands-on because I genuinely enjoy
 the technical work; whether that means designing a GCP migration strategy, 
 debugging Python code, or figuring out how to integrate Microsoft Dynamics 
 with analytics platforms. Work best in environments where I can bridge 
-technical execution with business strategy. Core skills: Python, .NET, Ruby on Rails, Google Cloud Platform, enterprise automation. Google Cloud Architect | 
-Six Sigma Black Belt.
+technical execution with business strategy. Core skills: Python, .NET, Ruby on Rails, Google Cloud Platform, with expertise in Looker dashboard development, SQL optimization, and BI platform migrations. Cert in Google Cloud Architect.
 
 ## **Experience**
 ### **Apr 2025 - Present | IT Manager - Digital Transformation & Automation | AutoZone**
@@ -33,7 +32,7 @@ Manage Enterprise Automation engineering team, driving **digital transformation*
 ### **Jan 2023 - Apr 2025 | Analytics and Shared-Services Manager | AutoZone**
 Managed development and analytics team supporting **Merchandising and Visual Display Planograms** across 5k stores. Led shared-services establishment for AutoZone MX.
 
-- Directed data analytics projects using **SQL, SAS, Python, Google BigQuery**. Developed **KPI Dashboards** via **Looker and WebFocus**
+- Directed data analytics projects using **SQL, SAS, Python, Google BigQuery**. Developed **KPI Dashboards via Looker and WebFocus**, ensuring metric accuracy and dashboard performance optimization
 - Led application development in **.NET, Java Spring Boot, Python, C#** for process automation
 - Led design, architecture and implementation of **full BI environment cloud migration to GCP** - improving **processing full cycle time by 70%**
 - Established new functional areas at AutoZone MX, consolidating **Analytics, Software Engineering, Marketing, Graphic Design, and Construction Drafting** departments
@@ -72,8 +71,8 @@ BigQuery, Cloud Architecture
 JavaScript, React, SQL
 - **Automation & RPA:** Automation Anywhere, Process Automation, Workflow 
 Orchestration, Agentic Frameworks
-- **Data & Analytics:** SQL, SAS, PostgreSQL, MySQL, ETL Pipelines, Looker, 
-WebFocus, Data Modeling
+- **BI & Analytics:** SQL, SAS, PostgreSQL, MySQL, ETL Pipelines, Looker, 
+WebFocus, Data Modeling, Dashboard migration/replication, LookML modeling.
 - **Enterprise Systems:** Microsoft Dynamics CRM, ERP Integration, Oracle NetSuite
 - **DevOps & Tools:** Git, CI/CD, Shell Scripting, RESTful APIs
 - **Leadership:** Team Management (10+ engineers), Digital Transformation Strategy, 
